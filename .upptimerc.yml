@@ -13,7 +13,6 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.lunardreams.fr
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime | Lunardreams.fr
   theme: ocean
   themeUrl: https://status.lunardreams.fr/custom-theme.css
