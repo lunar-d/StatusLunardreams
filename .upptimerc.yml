@@ -14,7 +14,7 @@ status-website:
   cname: status.lunardreams.fr
   # baseUrl: /your-repo-name
   name: Upptime | Lunardreams.fr
-  theme: ocean
+  theme: dark
   themeUrl: https://status.lunardreams.fr/custom-theme.css
   logoUrl: https://status.lunardreams.fr/logo.png
   # Etat des services disponibles sur lunardreams.fr alimenté par Upptime.
