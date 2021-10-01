@@ -4,7 +4,7 @@
     "url": "https://lunardreams.fr",
     "icon": "https://favicons.githubusercontent.com/lunardreams.fr",
     "slug": "lunar-dreams-principale",
-    "status": "up",
+    "status": "down",
     "uptime": "99.35%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 952,
     "timeYear": 945,
     "dailyMinutesDown": {
+      "2021-10-01": 0,
       "2021-08-04": 16,
       "2021-07-29": 577
     }
