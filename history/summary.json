@@ -4,19 +4,19 @@
     "url": "https://lunardreams.fr",
     "icon": "https://favicons.githubusercontent.com/lunardreams.fr",
     "slug": "lunar-dreams-domaine-principale",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1513,
-    "timeDay": 1601,
-    "timeWeek": 1985,
-    "timeMonth": 1630,
-    "timeYear": 1513,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.08%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.98%",
+    "time": 1517,
+    "timeDay": 1662,
+    "timeWeek": 1952,
+    "timeMonth": 1633,
+    "timeYear": 1517,
     "dailyMinutesDown": {
-      "2022-03-23": 1
+      "2022-03-23": 13
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://nitter.lunardreams.fr",
     "icon": "https://favicons.githubusercontent.com/nitter.lunardreams.fr",
     "slug": "nitter",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.11%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.98%",
     "time": 624,
-    "timeDay": 424,
-    "timeWeek": 584,
+    "timeDay": 522,
+    "timeWeek": 589,
     "timeMonth": 624,
     "timeYear": 624,
     "dailyMinutesDown": {
-      "2022-03-23": 0
+      "2022-03-23": 13
     }
   }
 ]
