@@ -4,35 +4,39 @@
     "url": "https://lunardreams.fr",
     "icon": "https://favicons.githubusercontent.com/lunardreams.fr",
     "slug": "lunar-dreams-domaine-principale",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1515,
-    "timeDay": 1560,
+    "timeDay": 1398,
     "timeWeek": 1937,
     "timeMonth": 1627,
     "timeYear": 1515,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-24": 1
+    }
   },
   {
     "name": "Nitter",
     "url": "https://nitter.lunardreams.fr",
     "icon": "https://favicons.githubusercontent.com/nitter.lunardreams.fr",
     "slug": "nitter",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 621,
-    "timeDay": 567,
+    "timeDay": 514,
     "timeWeek": 589,
     "timeMonth": 614,
     "timeYear": 621,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-24": 0
+    }
   }
 ]
