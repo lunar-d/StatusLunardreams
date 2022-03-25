@@ -4,11 +4,11 @@
     "url": "https://lunardreams.fr",
     "icon": "https://favicons.githubusercontent.com/lunardreams.fr",
     "slug": "lunar-dreams-domaine-principale",
-    "status": "up",
+    "status": "down",
     "uptime": "98.72%",
-    "uptimeDay": "45.13%",
+    "uptimeDay": "45.09%",
     "uptimeWeek": "92.16%",
-    "uptimeMonth": "98.20%",
+    "uptimeMonth": "98.19%",
     "uptimeYear": "98.72%",
     "time": 1523,
     "timeDay": 1905,
@@ -16,7 +16,7 @@
     "timeMonth": 1661,
     "timeYear": 1523,
     "dailyMinutesDown": {
-      "2022-03-25": 414,
+      "2022-03-25": 415,
       "2022-03-24": 376
     }
   },
@@ -25,7 +25,7 @@
     "url": "https://nitter.lunardreams.fr",
     "icon": "https://favicons.githubusercontent.com/nitter.lunardreams.fr",
     "slug": "nitter",
-    "status": "up",
+    "status": "down",
     "uptime": "98.72%",
     "uptimeDay": "45.16%",
     "uptimeWeek": "92.17%",
