@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/lunardreams.fr.ico",
     "slug": "lunar-dreams-domaine-principale",
     "status": "down",
-    "uptime": "51.50%",
+    "uptime": "51.44%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
+    "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 979,
-    "timeDay": 681,
-    "timeWeek": 791,
-    "timeMonth": 889,
-    "timeYear": 916,
+    "time": 980,
+    "timeDay": 1621,
+    "timeWeek": 900,
+    "timeMonth": 919,
+    "timeYear": 918,
     "dailyMinutesDown": {
-      "2024-06-30": 67,
+      "2024-07-01": 68,
+      "2024-06-30": 1440,
       "2024-06-29": 1440,
       "2024-06-28": 1440,
       "2024-06-27": 1440,
@@ -379,8 +380,7 @@
       "2023-07-06": 1440,
       "2023-07-05": 1440,
       "2023-07-04": 1440,
-      "2023-07-03": 1440,
-      "2023-07-02": 1440
+      "2023-07-03": 1440
     }
   },
   {
@@ -389,16 +389,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/nitter.lunardreams.fr.ico",
     "slug": "nitter",
     "status": "up",
-    "uptime": "91.13%",
+    "uptime": "91.14%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "95.58%",
-    "uptimeYear": "94.23%",
-    "time": 978,
-    "timeDay": 990,
-    "timeWeek": 829,
-    "timeMonth": 981,
-    "timeYear": 971,
+    "uptimeMonth": "99.07%",
+    "uptimeYear": "94.50%",
+    "time": 980,
+    "timeDay": 1450,
+    "timeWeek": 948,
+    "timeMonth": 999,
+    "timeYear": 972,
     "dailyMinutesDown": {
       "2024-06-18": 408,
       "2024-05-31": 681,
@@ -424,8 +424,7 @@
       "2023-07-06": 1440,
       "2023-07-05": 1440,
       "2023-07-04": 1440,
-      "2023-07-03": 1440,
-      "2023-07-02": 1440
+      "2023-07-03": 1440
     }
   }
 ]
