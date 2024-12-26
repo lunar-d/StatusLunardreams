@@ -7,8 +7,9 @@ sites:
     url: https://lunardreams.fr
     assignees:
       - lunar-d
-  - name: Nitter
-    url: https://nitter.lunardreams.fr
+  - name: Dnydns
+    url: https://lunardreams.duckdns.org/
+    __dangerous__insecure: true
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
