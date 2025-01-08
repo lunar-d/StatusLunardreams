@@ -336,19 +336,19 @@
     "url": "https://lunardreams.duckdns.org/",
     "icon": "https://icons.duckduckgo.com/ip3/lunardreams.duckdns.org.ico",
     "slug": "dnydns",
-    "status": "up",
-    "uptime": "99.84%",
-    "uptimeDay": "99.22%",
-    "uptimeWeek": "99.70%",
-    "uptimeMonth": "99.84%",
-    "uptimeYear": "99.84%",
+    "status": "down",
+    "uptime": "99.90%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.90%",
     "time": 2075,
     "timeDay": 2877,
     "timeWeek": 2464,
     "timeMonth": 2075,
     "timeYear": 2075,
     "dailyMinutesDown": {
-      "2025-01-08": 11,
+      "2025-01-08": 0,
       "2025-01-02": 19
     }
   }
