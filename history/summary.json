@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/lunardreams.fr.ico",
     "slug": "lunar-dreams-domaine-principale",
     "status": "up",
-    "uptime": "48.31%",
+    "uptime": "48.35%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "20.04%",
+    "uptimeYear": "20.27%",
     "time": 870,
     "timeDay": 408,
     "timeWeek": 553,
@@ -317,7 +317,7 @@
     "url": "https://lunardreams.duckdns.org/",
     "icon": "https://icons.duckduckgo.com/ip3/lunardreams.duckdns.org.ico",
     "slug": "dnydns",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.81%",
@@ -329,6 +329,7 @@
     "timeMonth": 2019,
     "timeYear": 2078,
     "dailyMinutesDown": {
+      "2025-01-27": 0,
       "2025-01-21": 19,
       "2025-01-02": 19
     }
