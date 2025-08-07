@@ -10,6 +10,7 @@ sites:
   - name: Dnydns
     url: https://lunardreams.duckdns.org/
     __dangerous__insecure: true
+    delay: 240000
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
