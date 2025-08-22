@@ -5,14 +5,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/lunardreams.fr.ico",
     "slug": "lunar-dreams-domaine-principale",
     "status": "up",
-    "uptime": "56.50%",
+    "uptime": "56.54%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "76.49%",
-    "time": 792,
-    "timeDay": 714,
-    "timeWeek": 654,
+    "uptimeYear": "76.76%",
+    "time": 791,
+    "timeDay": 697,
+    "timeWeek": 682,
     "timeMonth": 740,
     "timeYear": 759,
     "dailyMinutesDown": {
@@ -107,8 +107,7 @@
       "2024-08-26": 1440,
       "2024-08-25": 1440,
       "2024-08-24": 1440,
-      "2024-08-23": 1440,
-      "2024-08-22": 1440
+      "2024-08-23": 1440
     }
   },
   {
@@ -122,11 +121,11 @@
     "uptimeWeek": "99.23%",
     "uptimeMonth": "97.98%",
     "uptimeYear": "99.14%",
-    "time": 2806,
-    "timeDay": 5673,
-    "timeWeek": 3529,
-    "timeMonth": 4418,
-    "timeYear": 2806,
+    "time": 2807,
+    "timeDay": 3089,
+    "timeWeek": 3194,
+    "timeMonth": 4311,
+    "timeYear": 2807,
     "dailyMinutesDown": {
       "2025-08-19": 77,
       "2025-08-12": 129,
