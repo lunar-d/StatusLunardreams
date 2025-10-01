@@ -9,11 +9,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.74%",
-    "uptimeYear": "87.67%",
+    "uptimeYear": "87.70%",
     "time": 786,
-    "timeDay": 1076,
+    "timeDay": 0,
     "timeWeek": 825,
-    "timeMonth": 847,
+    "timeMonth": 844,
     "timeYear": 748,
     "dailyMinutesDown": {
       "2025-09-17": 116,
@@ -68,8 +68,7 @@
       "2024-10-05": 1440,
       "2024-10-04": 1440,
       "2024-10-03": 1440,
-      "2024-10-02": 1440,
-      "2024-10-01": 1440
+      "2024-10-02": 1440
     }
   },
   {
@@ -78,15 +77,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/lunardreams.duckdns.org.ico",
     "slug": "dnydns",
     "status": "up",
-    "uptime": "99.10%",
+    "uptime": "99.11%",
     "uptimeDay": "95.15%",
     "uptimeWeek": "99.31%",
-    "uptimeMonth": "98.98%",
-    "uptimeYear": "99.10%",
+    "uptimeMonth": "99.03%",
+    "uptimeYear": "99.11%",
     "time": 2863,
-    "timeDay": 5432,
+    "timeDay": 6914,
     "timeWeek": 2744,
-    "timeMonth": 3231,
+    "timeMonth": 3034,
     "timeYear": 2863,
     "dailyMinutesDown": {
       "2025-09-30": 69,
