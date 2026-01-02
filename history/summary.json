@@ -8,7 +8,7 @@
     "uptime": "58.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "65.56%",
+    "uptimeMonth": "65.86%",
     "uptimeYear": "93.19%",
     "time": 795,
     "timeDay": 694,
@@ -58,9 +58,9 @@
     "slug": "dnydns",
     "status": "up",
     "uptime": "99.17%",
-    "uptimeDay": "97.44%",
-    "uptimeWeek": "99.40%",
-    "uptimeMonth": "99.73%",
+    "uptimeDay": "97.91%",
+    "uptimeWeek": "99.47%",
+    "uptimeMonth": "99.75%",
     "uptimeYear": "99.15%",
     "time": 3035,
     "timeDay": 7320,
@@ -68,7 +68,7 @@
     "timeMonth": 3904,
     "timeYear": 3063,
     "dailyMinutesDown": {
-      "2026-01-01": 37,
+      "2026-01-01": 30,
       "2025-12-27": 23,
       "2025-12-18": 57,
       "2025-11-18": 78,
@@ -129,8 +129,7 @@
       "2025-02-04": 20,
       "2025-02-02": 17,
       "2025-01-27": 30,
-      "2025-01-21": 19,
-      "2025-01-02": 19
+      "2025-01-21": 19
     }
   }
 ]
