@@ -65,10 +65,10 @@
     "url": "https://lunardreams.duckdns.org/",
     "icon": "https://icons.duckduckgo.com/ip3/lunardreams.duckdns.org.ico",
     "slug": "dnydns",
-    "status": "up",
+    "status": "down",
     "uptime": "98.77%",
-    "uptimeDay": "88.80%",
-    "uptimeWeek": "97.68%",
+    "uptimeDay": "88.79%",
+    "uptimeWeek": "97.67%",
     "uptimeMonth": "92.64%",
     "uptimeYear": "98.41%",
     "time": 2952,
@@ -149,8 +149,7 @@
       "2025-07-01": 15,
       "2025-06-23": 656,
       "2025-06-22": 590,
-      "2025-06-19": 15,
-      "2025-06-13": 21
+      "2025-06-19": 15
     }
   }
 ]
