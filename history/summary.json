@@ -4,17 +4,17 @@
     "url": "https://lunardreams.fr",
     "icon": "https://icons.duckduckgo.com/ip3/lunardreams.fr.ico",
     "slug": "lunar-dreams-domaine-principale",
-    "status": "down",
+    "status": "up",
     "uptime": "63.44%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "92.77%",
-    "time": 1116,
-    "timeDay": 2080,
-    "timeWeek": 2656,
-    "timeMonth": 2122,
-    "timeYear": 1271,
+    "uptimeDay": "94.81%",
+    "uptimeWeek": "99.26%",
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "92.75%",
+    "time": 1183,
+    "timeDay": 19952,
+    "timeWeek": 7052,
+    "timeMonth": 3274,
+    "timeYear": 1363,
     "dailyMinutesDown": {
       "2025-09-17": 116,
       "2025-10-08": 72,
@@ -58,7 +58,8 @@
       "2026-04-20": 94,
       "2026-04-23": 165,
       "2026-04-22": 5,
-      "2026-05-20": 201
+      "2026-05-20": 201,
+      "2026-07-03": 75
     }
   }
 ]
